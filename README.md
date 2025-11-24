@@ -1,5 +1,12 @@
 # Student Advising & Academic Planning System
 
+## Video Walkthrough (7 minutes)
+
+Click the thumbnail below to watch the full project walkthrough:
+
+[![Student Advising System Video](https://img.youtube.com/vi/Sxt3GdigkX8/0.jpg)](https://youtu.be/Sxt3GdigkX8)
+
+
 A full-stack web application designed to support academic advisors in managing students, courses, emphasis requirements, and personalized academic planning. Built as part of my Capstone project for the Information Technology Management program, this system streamlines advising workflows with tools such as drag-and-drop course planning, CSV imports, and modular CRUD management.
 
 ---
