@@ -121,14 +121,12 @@ Frontend (HTML/CSS/JS)
 ### 3. Configure database connection:
 
 - Open the file that manages DB connection (for example: `config.php` or wherever `mysqli`/PDO is initialized)
-- Update:
+- Update to match your environment:
 
   - `$host`
   - `$dbname`
   - `$username`
   - `$password`
-
-to match your environment.
 
 4. Run locally:
 
